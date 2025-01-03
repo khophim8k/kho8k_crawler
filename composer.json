@@ -1,5 +1,5 @@
 {
-    "name": "khophim8k/khophim8k-crawler",
+    "name": "khophim8k/khophim8k-crawler-fakeview",
     "description": "Khophim8k crawler",
     "type": "package",
     "require": {
